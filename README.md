@@ -35,7 +35,7 @@ Puedes usar cualquier servidor web local apuntando a este directorio.
 - **Tracking completo** de interacciones del usuario
 
 ### Enlaces de WhatsApp
-- **Número**: +1 (225) 360-7317
+- **Número**: +1 (786) 687-8279
 - **Mensaje predefinido**: "Maestro, necesito una ayuda. Vi su pagina y quiero una consulta"
 - **Tracking de conversiones** integrado
 
